@@ -1,16 +1,21 @@
-# AI-IDS-Project-Project
+#AI-IDS-Project-Project
 
-## Description
-This project is an Intrusion Detection System using AI.
+##Description
 
-## Installation
-Clone the repository and install dependencies.
+This project is an intrusion detection system using AI.
 
-## Usage
-Run the scripts in the `src/` folder to start detection.
+##Installation
 
-## Dataset
-The dataset is stored in the `dataset/` folder.
+I will clone the repository and install dependencies
 
-## Tests
-Unit tests are available in the `tests/` folder.
+##Usage
+
+Run the scripts in the 'src/' folder to start detection.
+
+##Dataset
+
+The dataset is stored in the 'dataset/' folder.
+
+##Test
+
+Unit tests are available in the 'tests/' folder.
